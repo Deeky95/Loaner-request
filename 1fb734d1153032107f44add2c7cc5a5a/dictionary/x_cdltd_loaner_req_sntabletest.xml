@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="f001d465287032107f44426fe33c31d7" extends="change_request" label="SNTableTest" max_length="40" name="x_cdltd_loaner_req_sntabletest" type="collection"/>
+</database>
